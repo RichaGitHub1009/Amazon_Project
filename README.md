@@ -33,17 +33,19 @@ To perform data cleaning, visualization, and advanced analytics on Amazon’s sa
 -<a href = "https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Category_Tooltip.png">Category Tooltip</a>
 -<a href = "https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Product_Tooltip.png">Product Tooltip</a>
 ## DASHBOARD
-![Customer Detail](https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Category_Tooltip.png)
+![Overview](https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Overview.png)
 
-![Product Detail](https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Overview.png)
+![Product cat_Tooltip](https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Product_cat_Tooltip.png)
 
-![](https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Product_Detail.png)
+![Product PD_Tooltip](https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Product_PD_Tooltip.png)
 
-![](https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Product_PD_Tooltip.png)
+![Product Detail](https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Product_Detail.png)
 
-![](https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Product_Tooltip.png)
+![Category Tooltip](https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Category_Tooltip.png)
 
-![](https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Product_cat_Tooltip.png)
+![Product Tooltip](https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Product_Tooltip.png)
+
+
 
 
 
