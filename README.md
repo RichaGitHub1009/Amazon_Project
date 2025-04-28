@@ -26,12 +26,12 @@ To perform data cleaning, visualization, and advanced analytics on Amazon’s sa
 
 •	category wise return amount
 
-•	Dashboard interaction -<a href = "https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Overview.png"> </a>
--<a href = "https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Product_cat_Tooltip.png"> </a>
--<a href = "https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Product_PD_Tooltip.png"> </a>
--<a href = "https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Product_Detail.png"> </a>
--<a href = "https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Category_Tooltip.png"> </a>
--<a href = "https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Product_Tooltip.png"> </a>
+•	Dashboard interaction -<a href = "https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Overview.png">Overview </a>
+-<a href = "https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Product_cat_Tooltip.png">Product cat_Tooltip </a>
+-<a href = "https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Product_PD_Tooltip.png">Product PD_Tooltip </a>
+-<a href = "https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Product_Detail.png">Product Detail </a>
+-<a href = "https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Category_Tooltip.png">Category Tooltip</a>
+-<a href = "https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Product_Tooltip.png">Product Tooltip</a>
 ## DASHBOARD
 ![Customer Detail](https://github.com/RichaGitHub1009/Amazon_Project/blob/main/Category_Tooltip.png)
 
